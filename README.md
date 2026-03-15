@@ -14,7 +14,7 @@ This interactive financial calculator is designed as an educational tool to simp
 ## Tech Stack
 * **Frontend**: Next.js 15.5.9 
 * **Environment**: Node.js 22.11.0 
-* [**Styling**: Responsive CSS with HDFC Brand Guidelines
+* **Styling**: Responsive CSS with HDFC Brand Guidelines
 
 ## Disclaimer
 This tool has been designed for information purposes only. Actual results may vary depending on various factors involved in capital market. Investor should not consider above as a recommendation for any schemes of HDFC Mutual Fund. Past performance may or may not be sustained in future and is not a guarantee of any future returns.
